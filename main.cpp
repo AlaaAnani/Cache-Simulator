@@ -1,3 +1,10 @@
+/*
+Computer Organization and Assembly Programming Language course.
+This project is created by ALAA ANANI and KIROLLOS NAGI.
+May 16, 2018
+cpyright © 2018 ALAA and KIROLLOS. All rights reserved.
+main.cpp
+*/
 #include <iostream>
 #include  <iomanip>
 
